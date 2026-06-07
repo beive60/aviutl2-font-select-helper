@@ -1,0 +1,429 @@
+00018293	89.19593048	52412	[SpikeTest] SetWinEventHook installed event=EVENT_OBJECT_CREATE	
+00018294	89.19595337	52412	[SpikeTest] SetWinEventHook installed event=EVENT_OBJECT_SHOW	
+00018295	89.19598389	52412	[SpikeTest] SetWinEventHook installed event=EVENT_OBJECT_FOCUS	
+00018296	89.19601440	52412	[SpikeTest] hook thread started tid=38280 hooks=3	
+00018297	89.22036743	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0xcf1e82) hwnd=HWND(0x8301756) obj=0 child=0 event_thread=39068	
+00018298	89.22070312	52412	[SpikeTest] Probe#1 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00018299	89.22085571	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00018300	89.22191620	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x33516cc) hwnd=HWND(0x33516cc) obj=0 child=0 event_thread=39068	
+00018301	89.22200775	52412	[SpikeTest] Probe#2 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x33516cc) combos=0 strong=false	
+00018302	89.22204590	52412	[SpikeTest] Scheduling retries root=HWND(0x33516cc) delays_ms=[80, 220, 500]	
+00018303	89.25563812	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x43e102a) hwnd=HWND(0x43e102a) obj=0 child=0 event_thread=39068	
+00018304	89.25576782	52412	[SpikeTest] Probe#3 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x43e102a) combos=0 strong=false	
+00018305	89.25588226	52412	[SpikeTest] Scheduling retries root=HWND(0x43e102a) delays_ms=[80, 220, 500]	
+00018306	89.25857544	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x3df1860) hwnd=HWND(0x3df1860) obj=0 child=0 event_thread=39068	
+00018307	89.25864410	52412	[SpikeTest] Probe#4 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x3df1860) combos=0 strong=false	
+00018308	89.25865936	52412	[SpikeTest] Scheduling retries root=HWND(0x3df1860) delays_ms=[80, 220, 500]	
+00018309	89.26187897	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x24716f6) hwnd=HWND(0x24716f6) obj=0 child=0 event_thread=39068	
+00018310	89.26205444	52412	[SpikeTest] Probe#5 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x24716f6) combos=0 strong=false	
+00018311	89.26227570	52412	[SpikeTest] Scheduling retries root=HWND(0x24716f6) delays_ms=[80, 220, 500]	
+00018312	89.26260376	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x1ed0b70) hwnd=HWND(0x1ed0b70) obj=0 child=0 event_thread=47980	
+00018313	89.26280212	52412	[SpikeTest] Probe#6 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x1ed0b70) combos=0 strong=false	
+00018314	89.26291656	52412	[SpikeTest] Scheduling retries root=HWND(0x1ed0b70) delays_ms=[80, 220, 500]	
+00018315	89.27661133	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x55813b2) hwnd=HWND(0x55813b2) obj=0 child=0 event_thread=39068	
+00018316	89.27676392	52412	[SpikeTest] Probe#7 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x55813b2) combos=0 strong=false	
+00018317	89.27690125	52412	[SpikeTest] Scheduling retries root=HWND(0x55813b2) delays_ms=[80, 220, 500]	
+00018318	89.28084564	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x20118c) hwnd=HWND(0x20118c) obj=0 child=0 event_thread=39332	
+00018319	89.28089905	52412	[SpikeTest] Probe#8 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x20118c) combos=0 strong=false	
+00018320	89.28093719	52412	[SpikeTest] Scheduling retries root=HWND(0x20118c) delays_ms=[80, 220, 500]	
+00018321	89.30200958	52412	[SpikeTest] Probe#9 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00018322	89.30287933	52412	[SpikeTest] Probe#10 source=DELAYED attempt=1 root=HWND(0x33516cc) combos=0 strong=false	
+00018323	89.33640289	52412	[SpikeTest] Probe#11 source=DELAYED attempt=1 root=HWND(0x43e102a) combos=0 strong=false	
+00018324	89.33920288	52412	[SpikeTest] Probe#12 source=DELAYED attempt=1 root=HWND(0x3df1860) combos=0 strong=false	
+00018325	89.34279633	52412	[SpikeTest] Probe#13 source=DELAYED attempt=1 root=HWND(0x24716f6) combos=0 strong=false	
+00018326	89.34386444	52412	[SpikeTest] Probe#14 source=DELAYED attempt=1 root=HWND(0x1ed0b70) combos=0 strong=false	
+00018327	89.35206604	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x21118c) hwnd=HWND(0x21118c) obj=0 child=0 event_thread=46132	
+00018328	89.35211182	52412	[SpikeTest] Probe#15 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x21118c) combos=0 strong=false	
+00018329	89.35214233	52412	[SpikeTest] Scheduling retries root=HWND(0x21118c) delays_ms=[80, 220, 500]	
+00018330	89.35758972	52412	[SpikeTest] Probe#16 source=DELAYED attempt=1 root=HWND(0x55813b2) combos=0 strong=false	
+00018331	89.35807037	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x171286) hwnd=HWND(0x171286) obj=0 child=0 event_thread=53072	
+00018332	89.35815430	52412	[SpikeTest] Probe#17 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x171286) combos=0 strong=false	
+00018333	89.35823822	52412	[SpikeTest] Scheduling retries root=HWND(0x171286) delays_ms=[80, 220, 500]	
+00018334	89.36233521	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x20118c) (invalid window)	
+00018335	89.50847626	52412	[SpikeTest] Probe#18 source=DELAYED attempt=1 root=HWND(0x21118c) combos=0 strong=false	
+00018336	89.58324432	52412	[SpikeTest] Probe#19 source=DELAYED attempt=1 root=HWND(0x171286) combos=0 strong=false	
+00018337	89.59004974	52412	[SpikeTest] Probe#20 source=DELAYED attempt=2 root=HWND(0xcf1e82) combos=0 strong=false	
+00018338	89.59577942	52412	[SpikeTest] Probe#21 source=DELAYED attempt=2 root=HWND(0x33516cc) combos=0 strong=false	
+00018339	89.60221100	52412	[SpikeTest] Probe#22 source=DELAYED attempt=2 root=HWND(0x43e102a) combos=0 strong=false	
+00018340	89.60816956	52412	[SpikeTest] Probe#23 source=DELAYED attempt=2 root=HWND(0x3df1860) combos=0 strong=false	
+00018341	89.61353302	52412	[SpikeTest] Probe#24 source=DELAYED attempt=2 root=HWND(0x24716f6) combos=0 strong=false	
+00018342	89.62021637	52412	[SpikeTest] Probe#25 source=DELAYED attempt=2 root=HWND(0x1ed0b70) combos=0 strong=false	
+00018343	89.62691498	52412	[SpikeTest] Probe#26 source=DELAYED attempt=2 root=HWND(0x55813b2) combos=0 strong=false	
+00018344	89.63373566	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x20118c) (invalid window)	
+00018345	89.63995361	52412	[SpikeTest] Probe#27 source=DELAYED attempt=2 root=HWND(0x21118c) combos=0 strong=false	
+00018346	89.65304565	52412	[SpikeTest] Probe#28 source=DELAYED attempt=2 root=HWND(0x171286) combos=0 strong=false	
+00018347	89.72121429	52412	[SpikeTest] Probe#29 source=DELAYED attempt=3 root=HWND(0xcf1e82) combos=0 strong=false	
+00018348	89.72250366	52412	[SpikeTest] Probe#30 source=DELAYED attempt=3 root=HWND(0x33516cc) combos=0 strong=false	
+00018349	89.75673676	52412	[SpikeTest] Probe#31 source=DELAYED attempt=3 root=HWND(0x43e102a) combos=0 strong=false	
+00018350	89.75930786	52412	[SpikeTest] Probe#32 source=DELAYED attempt=3 root=HWND(0x3df1860) combos=0 strong=false	
+00018351	89.76298523	52412	[SpikeTest] Probe#33 source=DELAYED attempt=3 root=HWND(0x24716f6) combos=0 strong=false	
+00018352	89.76353455	52412	[SpikeTest] Probe#34 source=DELAYED attempt=3 root=HWND(0x1ed0b70) combos=0 strong=false	
+00018353	89.77758026	52412	[SpikeTest] Probe#35 source=DELAYED attempt=3 root=HWND(0x55813b2) combos=0 strong=false	
+00018354	89.78128815	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x20118c) (invalid window)	
+00018355	89.85489655	52412	[SpikeTest] Probe#36 source=DELAYED attempt=3 root=HWND(0x21118c) combos=0 strong=false	
+00018356	89.85900879	52412	[SpikeTest] Probe#37 source=DELAYED attempt=3 root=HWND(0x171286) combos=0 strong=false	
+00018367	90.97637939	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x44f138c) hwnd=HWND(0x44f138c) obj=0 child=0 event_thread=39068	
+00018368	90.97650146	52412	[SpikeTest] Probe#38 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x44f138c) combos=0 strong=false	
+00018369	90.97666931	52412	[SpikeTest] Scheduling retries root=HWND(0x44f138c) delays_ms=[80, 220, 500]	
+00018370	91.05692291	52412	[SpikeTest] Probe#39 source=DELAYED attempt=1 root=HWND(0x44f138c) combos=0 strong=false	
+00018381	91.19728851	52412	[SpikeTest] Probe#40 source=DELAYED attempt=2 root=HWND(0x44f138c) combos=0 strong=false	
+00018382	91.47698975	52412	[SpikeTest] Probe#41 source=DELAYED attempt=3 root=HWND(0x44f138c) combos=0 strong=false	
+00018383	91.83467865	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x44f138c) hwnd=HWND(0x44f138c) obj=-4 child=1 event_thread=39068	
+00018384	91.83471680	52412	[SpikeTest] Probe#42 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x44f138c) combos=0 strong=false	
+00018385	91.83473206	52412	[SpikeTest] Scheduling retries root=HWND(0x44f138c) delays_ms=[80, 220, 500]	
+00018386	91.91544342	52412	[SpikeTest] Probe#43 source=DELAYED attempt=1 root=HWND(0x44f138c) combos=0 strong=false	
+00018387	91.96109772	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x31f180c) hwnd=HWND(0x31f180c) obj=0 child=0 event_thread=39068	
+00018388	91.96115112	52412	[SpikeTest] Probe#44 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x31f180c) combos=0 strong=false	
+00018389	91.96119690	52412	[SpikeTest] Scheduling retries root=HWND(0x31f180c) delays_ms=[80, 220, 500]	
+00018390	92.04158020	52412	[SpikeTest] Probe#45 source=DELAYED attempt=1 root=HWND(0x31f180c) combos=0 strong=false	
+00018391	92.05538940	52412	[SpikeTest] Probe#46 source=DELAYED attempt=2 root=HWND(0x44f138c) combos=0 strong=false	
+00018392	92.18157196	52412	[SpikeTest] Probe#47 source=DELAYED attempt=2 root=HWND(0x31f180c) combos=0 strong=false	
+00018403	92.33547211	52412	[SpikeTest] Probe#48 source=DELAYED attempt=3 root=HWND(0x44f138c) combos=0 strong=false	
+00018404	92.39506531	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x44f138c) hwnd=HWND(0x44f138c) obj=-4 child=2 event_thread=39068	
+00018405	92.39511108	52412	[SpikeTest] Probe#49 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x44f138c) combos=0 strong=false	
+00018406	92.39512634	52412	[SpikeTest] Scheduling retries root=HWND(0x44f138c) delays_ms=[80, 220, 500]	
+00018407	92.41587830	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x31f180c) hwnd=HWND(0x31f180c) obj=-4 child=2 event_thread=39068	
+00018408	92.41590881	52412	[SpikeTest] Probe#50 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x31f180c) combos=0 strong=false	
+00018409	92.41593170	52412	[SpikeTest] Scheduling retries root=HWND(0x31f180c) delays_ms=[80, 220, 500]	
+00018410	92.46154785	52412	[SpikeTest] Probe#51 source=DELAYED attempt=3 root=HWND(0x31f180c) combos=0 strong=false	
+00018411	92.47565460	52412	[SpikeTest] Probe#52 source=DELAYED attempt=1 root=HWND(0x44f138c) combos=0 strong=false	
+00018412	92.49646759	52412	[SpikeTest] Probe#53 source=DELAYED attempt=1 root=HWND(0x31f180c) combos=0 strong=false	
+00018413	92.61544800	52412	[SpikeTest] Probe#54 source=DELAYED attempt=2 root=HWND(0x44f138c) combos=0 strong=false	
+00018414	92.63684082	52412	[SpikeTest] Probe#55 source=DELAYED attempt=2 root=HWND(0x31f180c) combos=0 strong=false	
+00018415	92.65765381	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x31f180c) hwnd=HWND(0x31f180c) obj=-4 child=5 event_thread=39068	
+00018416	92.65772247	52412	[SpikeTest] Probe#56 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x31f180c) combos=0 strong=false	
+00018417	92.65776825	52412	[SpikeTest] Scheduling retries root=HWND(0x31f180c) delays_ms=[80, 220, 500]	
+00018418	92.73818207	52412	[SpikeTest] Probe#57 source=DELAYED attempt=1 root=HWND(0x31f180c) combos=0 strong=false	
+00018419	92.88522339	52412	[SpikeTest] Probe#58 source=DELAYED attempt=2 root=HWND(0x31f180c) combos=0 strong=false	
+00018420	92.90090179	52412	[SpikeTest] Probe#59 source=DELAYED attempt=3 root=HWND(0x44f138c) combos=0 strong=false	
+00018421	92.91664886	52412	[SpikeTest] Probe#60 source=DELAYED attempt=3 root=HWND(0x31f180c) combos=0 strong=false	
+00018422	93.09503174	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x44f138c) hwnd=HWND(0x44f138c) obj=-4 child=0 event_thread=39068	
+00018423	93.09519958	52412	[SpikeTest] Probe#61 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x44f138c) combos=0 strong=false	
+00018424	93.09530640	52412	[SpikeTest] Scheduling retries root=HWND(0x44f138c) delays_ms=[80, 220, 500]	
+00018425	93.15843964	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x31f180c) (invalid window)	
+00018426	93.17624664	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x44f138c) (invalid window)	
+00018437	93.31566620	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x44f138c) (invalid window)	
+00018444	93.59591675	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x44f138c) (invalid window)	
+00018585	107.45679474	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x63811a8) hwnd=HWND(0x63811a8) obj=0 child=0 event_thread=39068	
+00018586	107.45687103	52412	[SpikeTest] Probe#62 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x63811a8) combos=0 strong=false	
+00018587	107.45688629	52412	[SpikeTest] Scheduling retries root=HWND(0x63811a8) delays_ms=[80, 220, 500]	
+00018588	107.46257019	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x450138c) hwnd=HWND(0x450138c) obj=0 child=0 event_thread=39068	
+00018589	107.46329498	52412	[SpikeTest] Probe#63 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x450138c) combos=0 strong=false	
+00018590	107.46446991	52412	[SpikeTest] Scheduling retries root=HWND(0x450138c) delays_ms=[80, 220, 500]	
+00018591	107.53768921	52412	[SpikeTest] Probe#64 source=DELAYED attempt=1 root=HWND(0x63811a8) combos=0 strong=false	
+00018592	107.54376984	52412	[SpikeTest] Probe#65 source=DELAYED attempt=1 root=HWND(0x450138c) combos=0 strong=false	
+00018593	107.67790985	52412	[SpikeTest] Probe#66 source=DELAYED attempt=2 root=HWND(0x63811a8) combos=0 strong=false	
+00018594	107.68405914	52412	[SpikeTest] Probe#67 source=DELAYED attempt=2 root=HWND(0x450138c) combos=0 strong=false	
+00018595	107.95755768	52412	[SpikeTest] Probe#68 source=DELAYED attempt=3 root=HWND(0x63811a8) combos=0 strong=false	
+00018596	107.96392059	52412	[SpikeTest] Probe#69 source=DELAYED attempt=3 root=HWND(0x450138c) combos=0 strong=false	
+00018743	121.85850525	52412	[SpikeTest] Trigger event=EVENT_OBJECT_SHOW root=HWND(0x63811a8) hwnd=HWND(0x63811a8) obj=0 child=0 event_thread=39068	
+00018744	121.85974884	52412	[SpikeTest] Probe#70 source=EVENT_OBJECT_SHOW attempt=0 root=HWND(0x63811a8) combos=0 strong=false	
+00018745	121.86055756	52412	[SpikeTest] Scheduling retries root=HWND(0x63811a8) delays_ms=[80, 220, 500]	
+00018746	121.86123657	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x4670cde) hwnd=HWND(0x4670cde) obj=0 child=0 event_thread=39068	
+00018747	121.86199951	52412	[SpikeTest] Probe#71 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x4670cde) combos=0 strong=false	
+00018748	121.86270905	52412	[SpikeTest] Scheduling retries root=HWND(0x4670cde) delays_ms=[80, 220, 500]	
+00018749	121.94033813	52412	[SpikeTest] Probe#72 source=DELAYED attempt=1 root=HWND(0x63811a8) combos=0 strong=false	
+00018750	121.94268036	52412	[SpikeTest] Probe#73 source=DELAYED attempt=1 root=HWND(0x4670cde) combos=0 strong=false	
+00018751	122.08013916	52412	[SpikeTest] Probe#74 source=DELAYED attempt=2 root=HWND(0x63811a8) combos=0 strong=false	
+00018752	122.08262634	52412	[SpikeTest] Probe#75 source=DELAYED attempt=2 root=HWND(0x4670cde) combos=0 strong=false	
+00018763	122.36073303	52412	[SpikeTest] Probe#76 source=DELAYED attempt=3 root=HWND(0x63811a8) combos=0 strong=false	
+00018764	122.36232758	52412	[SpikeTest] Probe#77 source=DELAYED attempt=3 root=HWND(0x4670cde) combos=0 strong=false	
+00018791	124.50352478	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x4680cde) hwnd=HWND(0x4680cde) obj=0 child=0 event_thread=39068	
+00018792	124.50365448	52412	[SpikeTest] Probe#78 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x4680cde) combos=0 strong=false	
+00018793	124.50391388	52412	[SpikeTest] Scheduling retries root=HWND(0x4680cde) delays_ms=[80, 220, 500]	
+00018794	124.58451080	52412	[SpikeTest] Probe#79 source=DELAYED attempt=1 root=HWND(0x4680cde) combos=0 strong=false	
+00018795	124.72440338	52412	[SpikeTest] Probe#80 source=DELAYED attempt=2 root=HWND(0x4680cde) combos=0 strong=false	
+00018796	124.90888977	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x4680cde) hwnd=HWND(0x4680cde) obj=-4 child=1 event_thread=39068	
+00018797	124.90894318	52412	[SpikeTest] Probe#81 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x4680cde) combos=0 strong=false	
+00018798	124.90898895	52412	[SpikeTest] Scheduling retries root=HWND(0x4680cde) delays_ms=[80, 220, 500]	
+00018799	124.98944092	52412	[SpikeTest] Probe#82 source=DELAYED attempt=1 root=HWND(0x4680cde) combos=0 strong=false	
+00018800	125.00436401	52412	[SpikeTest] Probe#83 source=DELAYED attempt=3 root=HWND(0x4680cde) combos=0 strong=false	
+00018801	125.09917450	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x451138c) hwnd=HWND(0x451138c) obj=0 child=0 event_thread=39068	
+00018802	125.09925079	52412	[SpikeTest] Probe#84 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x451138c) combos=0 strong=false	
+00018803	125.09932709	52412	[SpikeTest] Scheduling retries root=HWND(0x451138c) delays_ms=[80, 220, 500]	
+00018804	125.12990570	52412	[SpikeTest] Probe#85 source=DELAYED attempt=2 root=HWND(0x4680cde) combos=0 strong=false	
+00018805	125.17989349	52412	[SpikeTest] Probe#86 source=DELAYED attempt=1 root=HWND(0x451138c) combos=0 strong=false	
+00018816	125.32045746	52412	[SpikeTest] Probe#87 source=DELAYED attempt=2 root=HWND(0x451138c) combos=0 strong=false	
+00018817	125.40942383	52412	[SpikeTest] Probe#88 source=DELAYED attempt=3 root=HWND(0x4680cde) combos=0 strong=false	
+00018818	125.50894165	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x4680cde) hwnd=HWND(0x4680cde) obj=-4 child=2 event_thread=39068	
+00018819	125.50900269	52412	[SpikeTest] Probe#89 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x4680cde) combos=0 strong=false	
+00018820	125.50905609	52412	[SpikeTest] Scheduling retries root=HWND(0x4680cde) delays_ms=[80, 220, 500]	
+00018821	125.52527618	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x451138c) hwnd=HWND(0x451138c) obj=-4 child=2 event_thread=39068	
+00018822	125.52542877	52412	[SpikeTest] Probe#90 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x451138c) combos=0 strong=false	
+00018823	125.52556610	52412	[SpikeTest] Scheduling retries root=HWND(0x451138c) delays_ms=[80, 220, 500]	
+00018824	125.58943939	52412	[SpikeTest] Probe#91 source=DELAYED attempt=1 root=HWND(0x4680cde) combos=0 strong=false	
+00018825	125.59990692	52412	[SpikeTest] Probe#92 source=DELAYED attempt=3 root=HWND(0x451138c) combos=0 strong=false	
+00018826	125.60652924	52412	[SpikeTest] Probe#93 source=DELAYED attempt=1 root=HWND(0x451138c) combos=0 strong=false	
+00018827	125.72935486	52412	[SpikeTest] Probe#94 source=DELAYED attempt=2 root=HWND(0x4680cde) combos=0 strong=false	
+00018828	125.74285126	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x451138c) hwnd=HWND(0x451138c) obj=-4 child=3 event_thread=39068	
+00018829	125.74289703	52412	[SpikeTest] Probe#95 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x451138c) combos=0 strong=false	
+00018830	125.74291229	52412	[SpikeTest] Scheduling retries root=HWND(0x451138c) delays_ms=[80, 220, 500]	
+00018831	125.74587250	52412	[SpikeTest] Probe#96 source=DELAYED attempt=2 root=HWND(0x451138c) combos=0 strong=false	
+00018832	125.82333374	52412	[SpikeTest] Probe#97 source=DELAYED attempt=1 root=HWND(0x451138c) combos=0 strong=false	
+00018833	125.94175720	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x451138c) hwnd=HWND(0x451138c) obj=-4 child=5 event_thread=39068	
+00018834	125.94179535	52412	[SpikeTest] Probe#98 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x451138c) combos=0 strong=false	
+00018835	125.94181061	52412	[SpikeTest] Scheduling retries root=HWND(0x451138c) delays_ms=[80, 220, 500]	
+00018836	125.96326447	52412	[SpikeTest] Probe#99 source=DELAYED attempt=2 root=HWND(0x451138c) combos=0 strong=false	
+00018837	126.00951385	52412	[SpikeTest] Probe#100 source=DELAYED attempt=3 root=HWND(0x4680cde) combos=0 strong=false	
+00018838	126.02239990	52412	[SpikeTest] Probe#101 source=DELAYED attempt=1 root=HWND(0x451138c) combos=0 strong=false	
+00018839	126.02625275	52412	[SpikeTest] Probe#102 source=DELAYED attempt=3 root=HWND(0x451138c) combos=0 strong=false	
+00018840	126.16226196	52412	[SpikeTest] Probe#103 source=DELAYED attempt=2 root=HWND(0x451138c) combos=0 strong=false	
+00018841	126.24359894	52412	[SpikeTest] Probe#104 source=DELAYED attempt=3 root=HWND(0x451138c) combos=0 strong=false	
+00018852	126.30479431	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x451138c) hwnd=HWND(0x451138c) obj=-4 child=6 event_thread=39068	
+00018853	126.30485535	52412	[SpikeTest] Probe#105 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x451138c) combos=0 strong=false	
+00018854	126.30492401	52412	[SpikeTest] Scheduling retries root=HWND(0x451138c) delays_ms=[80, 220, 500]	
+00018855	126.39087677	52412	[SpikeTest] Probe#106 source=DELAYED attempt=1 root=HWND(0x451138c) combos=0 strong=false	
+00018856	126.44227600	52412	[SpikeTest] Probe#107 source=DELAYED attempt=3 root=HWND(0x451138c) combos=0 strong=false	
+00018857	126.52550507	52412	[SpikeTest] Probe#108 source=DELAYED attempt=2 root=HWND(0x451138c) combos=0 strong=false	
+00018858	126.60249329	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x4680cde) hwnd=HWND(0x4680cde) obj=-4 child=0 event_thread=39068	
+00018859	126.60273743	52412	[SpikeTest] Probe#109 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x4680cde) combos=0 strong=false	
+00018860	126.60296631	52412	[SpikeTest] Scheduling retries root=HWND(0x4680cde) delays_ms=[80, 220, 500]	
+00018861	126.68313599	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x4680cde) (invalid window)	
+00018862	126.80536652	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x451138c) (invalid window)	
+00018863	126.82308197	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x4680cde) (invalid window)	
+00018864	127.10369110	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x4680cde) (invalid window)	
+00018885	128.35966492	52412	[SpikeTest] Trigger event=EVENT_OBJECT_SHOW root=HWND(0x63811a8) hwnd=HWND(0x63811a8) obj=0 child=0 event_thread=39068	
+00018886	128.36082458	52412	[SpikeTest] Probe#110 source=EVENT_OBJECT_SHOW attempt=0 root=HWND(0x63811a8) combos=0 strong=false	
+00018887	128.36169434	52412	[SpikeTest] Scheduling retries root=HWND(0x63811a8) delays_ms=[80, 220, 500]	
+00018888	128.36231995	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x4690cde) hwnd=HWND(0x4690cde) obj=0 child=0 event_thread=39068	
+00018889	128.36296082	52412	[SpikeTest] Probe#111 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x4690cde) combos=0 strong=false	
+00018890	128.36354065	52412	[SpikeTest] Scheduling retries root=HWND(0x4690cde) delays_ms=[80, 220, 500]	
+00018891	128.44146729	52412	[SpikeTest] Probe#112 source=DELAYED attempt=1 root=HWND(0x63811a8) combos=0 strong=false	
+00018892	128.44369507	52412	[SpikeTest] Probe#113 source=DELAYED attempt=1 root=HWND(0x4690cde) combos=0 strong=false	
+00018893	128.58166504	52412	[SpikeTest] Probe#114 source=DELAYED attempt=2 root=HWND(0x63811a8) combos=0 strong=false	
+00018894	128.58370972	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x4690cde) (invalid window)	
+00018895	128.86149597	52412	[SpikeTest] Probe#115 source=DELAYED attempt=3 root=HWND(0x63811a8) combos=0 strong=false	
+00018896	128.86354065	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x4690cde) (invalid window)	
+00018957	134.62327576	52412	[SpikeTest] Trigger event=EVENT_OBJECT_SHOW root=HWND(0x63811a8) hwnd=HWND(0x63811a8) obj=0 child=0 event_thread=39068	
+00018958	134.62469482	52412	[SpikeTest] Probe#116 source=EVENT_OBJECT_SHOW attempt=0 root=HWND(0x63811a8) combos=0 strong=false	
+00018959	134.62550354	52412	[SpikeTest] Scheduling retries root=HWND(0x63811a8) delays_ms=[80, 220, 500]	
+00018960	134.62629700	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x46a0cde) hwnd=HWND(0x46a0cde) obj=0 child=0 event_thread=39068	
+00018961	134.62698364	52412	[SpikeTest] Probe#117 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x46a0cde) combos=0 strong=false	
+00018962	134.62756348	52412	[SpikeTest] Scheduling retries root=HWND(0x46a0cde) delays_ms=[80, 220, 500]	
+00018963	134.70512390	52412	[SpikeTest] Probe#118 source=DELAYED attempt=1 root=HWND(0x63811a8) combos=0 strong=false	
+00018964	134.70744324	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x46a0cde) (invalid window)	
+00018965	134.84530640	52412	[SpikeTest] Probe#119 source=DELAYED attempt=2 root=HWND(0x63811a8) combos=0 strong=false	
+00018966	134.84779358	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x46a0cde) (invalid window)	
+00018967	135.12545776	52412	[SpikeTest] Probe#120 source=DELAYED attempt=3 root=HWND(0x63811a8) combos=0 strong=false	
+00018968	135.12782288	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x46a0cde) (invalid window)	
+00018979	135.36401367	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=0 child=0 event_thread=39068	
+00018980	135.36428833	52412	[SpikeTest] Probe#121 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00018981	135.36433411	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00018982	135.42292786	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x452138c) hwnd=HWND(0x452138c) obj=0 child=0 event_thread=39068	
+00018983	135.42297363	52412	[SpikeTest] Probe#122 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x452138c) combos=0 strong=false	
+00018984	135.42298889	52412	[SpikeTest] Scheduling retries root=HWND(0x452138c) delays_ms=[80, 220, 500]	
+00018985	135.42666626	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x320180c) hwnd=HWND(0x320180c) obj=0 child=0 event_thread=39068	
+00018986	135.42672729	52412	[SpikeTest] Probe#123 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x320180c) combos=0 strong=false	
+00018987	135.42686462	52412	[SpikeTest] Scheduling retries root=HWND(0x320180c) delays_ms=[80, 220, 500]	
+00018988	135.42709351	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x2961422) hwnd=HWND(0x2961422) obj=0 child=0 event_thread=39068	
+00018989	135.42716980	52412	[SpikeTest] Probe#124 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x2961422) combos=0 strong=false	
+00018990	135.42724609	52412	[SpikeTest] Scheduling retries root=HWND(0x2961422) delays_ms=[80, 220, 500]	
+00018991	135.44459534	52412	[SpikeTest] Probe#125 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00018992	135.50373840	52412	[SpikeTest] Probe#126 source=DELAYED attempt=1 root=HWND(0x452138c) combos=0 strong=false	
+00018993	135.50765991	52412	[SpikeTest] Probe#127 source=DELAYED attempt=1 root=HWND(0x320180c) combos=0 strong=false	
+00018994	135.50802612	52412	[SpikeTest] Probe#128 source=DELAYED attempt=1 root=HWND(0x2961422) combos=0 strong=false	
+00018995	135.58483887	52412	[SpikeTest] Probe#129 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00018996	135.64366150	52412	[SpikeTest] Probe#130 source=DELAYED attempt=2 root=HWND(0x452138c) combos=0 strong=false	
+00018997	135.64747620	52412	[SpikeTest] Probe#131 source=DELAYED attempt=2 root=HWND(0x320180c) combos=0 strong=false	
+00018998	135.64768982	52412	[SpikeTest] Probe#132 source=DELAYED attempt=2 root=HWND(0x2961422) combos=0 strong=false	
+00018999	135.79696655	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=223 event_thread=39068	
+00019000	135.79701233	52412	[SpikeTest] Probe#133 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019001	135.79705811	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019002	135.86491394	52412	[SpikeTest] Probe#134 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019003	135.90519714	52412	[SpikeTest] Probe#135 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019004	135.93595886	52412	[SpikeTest] Probe#136 source=DELAYED attempt=3 root=HWND(0x452138c) combos=0 strong=false	
+00019005	135.94000244	52412	[SpikeTest] Probe#137 source=DELAYED attempt=3 root=HWND(0x320180c) combos=0 strong=false	
+00019006	135.94412231	52412	[SpikeTest] Probe#138 source=DELAYED attempt=3 root=HWND(0x2961422) combos=0 strong=false	
+00019007	136.01806641	52412	[SpikeTest] Probe#139 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019018	136.29811096	52412	[SpikeTest] Probe#140 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019039	138.31561279	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0xcf1e82) hwnd=HWND(0xcf1e82) obj=-4 child=0 event_thread=39068	
+00019040	138.31582642	52412	[SpikeTest] Probe#141 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00019041	138.31597900	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00019042	138.39643860	52412	[SpikeTest] Probe#142 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00019049	138.53668213	52412	[SpikeTest] Probe#143 source=DELAYED attempt=2 root=HWND(0xcf1e82) combos=0 strong=false	
+00019050	138.81666565	52412	[SpikeTest] Probe#144 source=DELAYED attempt=3 root=HWND(0xcf1e82) combos=0 strong=false	
+00019061	139.36672974	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=0 child=0 event_thread=39068	
+00019062	139.36701965	52412	[SpikeTest] Probe#145 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019063	139.36718750	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019064	139.44789124	52412	[SpikeTest] Probe#146 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019065	139.58761597	52412	[SpikeTest] Probe#147 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019066	139.86787415	52412	[SpikeTest] Probe#148 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019067	140.05795288	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=22 event_thread=39068	
+00019068	140.05812073	52412	[SpikeTest] Probe#149 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019069	140.05818176	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019070	140.13916016	52412	[SpikeTest] Probe#150 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019071	140.26448059	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=21 event_thread=39068	
+00019072	140.26452637	52412	[SpikeTest] Probe#151 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019073	140.26455688	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019074	140.27883911	52412	[SpikeTest] Probe#152 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019085	140.34513855	52412	[SpikeTest] Probe#153 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019086	140.48504639	52412	[SpikeTest] Probe#154 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019087	140.55874634	52412	[SpikeTest] Probe#155 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019088	140.61648560	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=20 event_thread=39068	
+00019089	140.61656189	52412	[SpikeTest] Probe#156 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019090	140.61660767	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019091	140.69709778	52412	[SpikeTest] Probe#157 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019092	140.76570129	52412	[SpikeTest] Probe#158 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019093	140.78379822	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=5 event_thread=39068	
+00019094	140.78405762	52412	[SpikeTest] Probe#159 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019095	140.78463745	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019096	140.83743286	52412	[SpikeTest] Probe#160 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019097	140.86500549	52412	[SpikeTest] Probe#161 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019098	140.97732544	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=3 event_thread=39068	
+00019099	140.97740173	52412	[SpikeTest] Probe#162 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019100	140.97743225	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019101	141.00471497	52412	[SpikeTest] Probe#163 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019102	141.05810547	52412	[SpikeTest] Probe#164 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019103	141.11743164	52412	[SpikeTest] Probe#165 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019104	141.19822693	52412	[SpikeTest] Probe#166 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019105	141.23307800	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=0 event_thread=39068	
+00019106	141.23309326	52412	[SpikeTest] Probe#167 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019107	141.23310852	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019108	141.28463745	52412	[SpikeTest] Probe#168 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019119	141.31381226	52412	[SpikeTest] Probe#169 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019120	141.45387268	52412	[SpikeTest] Probe#170 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019121	141.47804260	52412	[SpikeTest] Probe#171 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019122	141.73353577	52412	[SpikeTest] Probe#172 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019123	141.81634521	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=2 event_thread=39068	
+00019124	141.81639099	52412	[SpikeTest] Probe#173 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019125	141.81640625	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019126	141.89741516	52412	[SpikeTest] Probe#174 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019127	142.03703308	52412	[SpikeTest] Probe#175 source=DELAYED attempt=2 root=HWND(0x1f31848) combos=0 strong=false	
+00019138	142.31698608	52412	[SpikeTest] Probe#176 source=DELAYED attempt=3 root=HWND(0x1f31848) combos=0 strong=false	
+00019139	142.44046021	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=3 event_thread=39068	
+00019140	142.44050598	52412	[SpikeTest] Probe#177 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019141	142.44052124	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019142	142.52105713	52412	[SpikeTest] Probe#178 source=DELAYED attempt=1 root=HWND(0x1f31848) combos=0 strong=false	
+00019143	142.61856079	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f31848) hwnd=HWND(0x1f31848) obj=-4 child=0 event_thread=39068	
+00019144	142.61874390	52412	[SpikeTest] Probe#179 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f31848) combos=0 strong=false	
+00019145	142.61886597	52412	[SpikeTest] Scheduling retries root=HWND(0x1f31848) delays_ms=[80, 220, 500]	
+00019146	142.66099548	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x1f31848) (invalid window)	
+00019147	142.69953918	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x1f31848) (invalid window)	
+00019148	142.83920288	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x1f31848) (invalid window)	
+00019149	142.94105530	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x1f31848) (invalid window)	
+00019150	143.11990356	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x1f31848) (invalid window)	
+00019161	143.61395264	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x1f41848) hwnd=HWND(0x1f41848) obj=0 child=0 event_thread=39068	
+00019162	143.61434937	52412	[SpikeTest] Probe#180 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x1f41848) combos=0 strong=false	
+00019163	143.61450195	52412	[SpikeTest] Scheduling retries root=HWND(0x1f41848) delays_ms=[80, 220, 500]	
+00019164	143.69485474	52412	[SpikeTest] Probe#181 source=DELAYED attempt=1 root=HWND(0x1f41848) combos=0 strong=false	
+00019165	143.83511353	52412	[SpikeTest] Probe#182 source=DELAYED attempt=2 root=HWND(0x1f41848) combos=0 strong=false	
+00019166	143.84736633	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f41848) hwnd=HWND(0x1f41848) obj=-4 child=22 event_thread=39068	
+00019167	143.84744263	52412	[SpikeTest] Probe#183 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f41848) combos=0 strong=false	
+00019168	143.84747314	52412	[SpikeTest] Scheduling retries root=HWND(0x1f41848) delays_ms=[80, 220, 500]	
+00019169	143.92807007	52412	[SpikeTest] Probe#184 source=DELAYED attempt=1 root=HWND(0x1f41848) combos=0 strong=false	
+00019170	144.06800842	52412	[SpikeTest] Probe#185 source=DELAYED attempt=2 root=HWND(0x1f41848) combos=0 strong=false	
+00019171	144.11514282	52412	[SpikeTest] Probe#186 source=DELAYED attempt=3 root=HWND(0x1f41848) combos=0 strong=false	
+00019182	144.34800720	52412	[SpikeTest] Probe#187 source=DELAYED attempt=3 root=HWND(0x1f41848) combos=0 strong=false	
+00019183	144.48698425	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f41848) hwnd=HWND(0x1f41848) obj=-4 child=0 event_thread=39068	
+00019184	144.48721313	52412	[SpikeTest] Probe#188 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f41848) combos=0 strong=false	
+00019185	144.48731995	52412	[SpikeTest] Scheduling retries root=HWND(0x1f41848) delays_ms=[80, 220, 500]	
+00019186	144.56799316	52412	[SpikeTest] Probe skipped source=DELAYED attempt=1 root=HWND(0x1f41848) (invalid window)	
+00019187	144.70793152	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x1f41848) (invalid window)	
+00019188	144.98796082	52412	[SpikeTest] Probe skipped source=DELAYED attempt=3 root=HWND(0x1f41848) (invalid window)	
+00019189	145.13026428	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=0 event_thread=39068	
+00019190	145.13035583	52412	[SpikeTest] Probe#189 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019191	145.13038635	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019192	145.21076965	52412	[SpikeTest] Probe#190 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019203	145.35110474	52412	[SpikeTest] Probe#191 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019204	145.43150330	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=313 event_thread=39068	
+00019205	145.43157959	52412	[SpikeTest] Probe#192 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019206	145.43161011	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019207	145.51214600	52412	[SpikeTest] Probe#193 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019208	145.58837891	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=314 event_thread=39068	
+00019209	145.58840942	52412	[SpikeTest] Probe#194 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019210	145.58842468	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019211	145.63075256	52412	[SpikeTest] Probe#195 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019212	145.65188599	52412	[SpikeTest] Probe#196 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019213	145.66902161	52412	[SpikeTest] Probe#197 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019214	145.80908203	52412	[SpikeTest] Probe#198 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019215	145.89865112	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0xcf1e82) hwnd=HWND(0xcf1e82) obj=-4 child=0 event_thread=39068	
+00019216	145.89868164	52412	[SpikeTest] Probe#199 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00019217	145.89869690	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00019218	145.93190002	52412	[SpikeTest] Probe#200 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019219	145.97938538	52412	[SpikeTest] Probe#201 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00019220	146.08885193	52412	[SpikeTest] Probe#202 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019221	146.11911011	52412	[SpikeTest] Probe#203 source=DELAYED attempt=2 root=HWND(0xcf1e82) combos=0 strong=false	
+00019232	146.39949036	52412	[SpikeTest] Probe#204 source=DELAYED attempt=3 root=HWND(0xcf1e82) combos=0 strong=false	
+00019243	147.60008240	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x1f51848) hwnd=HWND(0x1f51848) obj=0 child=0 event_thread=39068	
+00019244	147.60043335	52412	[SpikeTest] Probe#205 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x1f51848) combos=0 strong=false	
+00019245	147.60063171	52412	[SpikeTest] Scheduling retries root=HWND(0x1f51848) delays_ms=[80, 220, 500]	
+00019246	147.68119812	52412	[SpikeTest] Probe#206 source=DELAYED attempt=1 root=HWND(0x1f51848) combos=0 strong=false	
+00019247	147.76977539	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x1f51848) hwnd=HWND(0x1f51848) obj=-4 child=22 event_thread=39068	
+00019248	147.76982117	52412	[SpikeTest] Probe#207 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x1f51848) combos=0 strong=false	
+00019249	147.76982117	52412	[SpikeTest] Scheduling retries root=HWND(0x1f51848) delays_ms=[80, 220, 500]	
+00019250	147.82113647	52412	[SpikeTest] Probe#208 source=DELAYED attempt=2 root=HWND(0x1f51848) combos=0 strong=false	
+00019251	147.85046387	52412	[SpikeTest] Probe#209 source=DELAYED attempt=1 root=HWND(0x1f51848) combos=0 strong=false	
+00019252	147.99047852	52412	[SpikeTest] Probe#210 source=DELAYED attempt=2 root=HWND(0x1f51848) combos=0 strong=false	
+00019253	148.10128784	52412	[SpikeTest] Probe#211 source=DELAYED attempt=3 root=HWND(0x1f51848) combos=0 strong=false	
+00019254	148.27062988	52412	[SpikeTest] Probe#212 source=DELAYED attempt=3 root=HWND(0x1f51848) combos=0 strong=false	
+00019311	152.78253174	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=0 event_thread=39068	
+00019312	152.78259277	52412	[SpikeTest] Probe#213 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019313	152.78262329	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019314	152.86326599	52412	[SpikeTest] Probe#214 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019315	153.00323486	52412	[SpikeTest] Probe#215 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019316	153.11763000	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=313 event_thread=39068	
+00019317	153.11767578	52412	[SpikeTest] Probe#216 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019318	153.11769104	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019319	153.19853210	52412	[SpikeTest] Probe#217 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019320	153.28370667	52412	[SpikeTest] Probe#218 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019331	153.33859253	52412	[SpikeTest] Probe#219 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019338	153.61859131	52412	[SpikeTest] Probe#220 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019349	154.35458374	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0xcf1e82) hwnd=HWND(0xcf1e82) obj=-4 child=0 event_thread=39068	
+00019350	154.35469055	52412	[SpikeTest] Probe#221 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00019351	154.35478210	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00019352	154.43569946	52412	[SpikeTest] Probe#222 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00019353	154.57597351	52412	[SpikeTest] Probe#223 source=DELAYED attempt=2 root=HWND(0xcf1e82) combos=0 strong=false	
+00019354	154.85568237	52412	[SpikeTest] Probe#224 source=DELAYED attempt=3 root=HWND(0xcf1e82) combos=0 strong=false	
+00019365	155.54319763	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=0 event_thread=39068	
+00019366	155.54325867	52412	[SpikeTest] Probe#225 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019367	155.54333496	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019368	155.62391663	52412	[SpikeTest] Probe#226 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019369	155.72473145	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x46b0cde) hwnd=HWND(0x46b0cde) obj=-4 child=313 event_thread=39068	
+00019370	155.72479248	52412	[SpikeTest] Probe#227 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x46b0cde) combos=0 strong=false	
+00019371	155.72479248	52412	[SpikeTest] Scheduling retries root=HWND(0x46b0cde) delays_ms=[80, 220, 500]	
+00019372	155.76393127	52412	[SpikeTest] Probe#228 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019373	155.80574036	52412	[SpikeTest] Probe#229 source=DELAYED attempt=1 root=HWND(0x46b0cde) combos=0 strong=false	
+00019374	155.94566345	52412	[SpikeTest] Probe#230 source=DELAYED attempt=2 root=HWND(0x46b0cde) combos=0 strong=false	
+00019375	156.04386902	52412	[SpikeTest] Probe#231 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019376	156.22554016	52412	[SpikeTest] Probe#232 source=DELAYED attempt=3 root=HWND(0x46b0cde) combos=0 strong=false	
+00019397	157.45384216	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0xcf1e82) hwnd=HWND(0xcf1e82) obj=-4 child=0 event_thread=39068	
+00019398	157.45401001	52412	[SpikeTest] Probe#233 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00019399	157.45408630	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00019400	157.53486633	52412	[SpikeTest] Probe#234 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00019401	157.67481995	52412	[SpikeTest] Probe#235 source=DELAYED attempt=2 root=HWND(0xcf1e82) combos=0 strong=false	
+00019402	157.95457458	52412	[SpikeTest] Probe#236 source=DELAYED attempt=3 root=HWND(0xcf1e82) combos=0 strong=false	
+00019423	159.99313354	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x22118c) hwnd=HWND(0x22118c) obj=0 child=0 event_thread=39068	
+00019424	159.99345398	52412	[SpikeTest] Probe#237 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x22118c) combos=0 strong=false	
+00019425	159.99360657	52412	[SpikeTest] Scheduling retries root=HWND(0x22118c) delays_ms=[80, 220, 500]	
+00019426	160.07423401	52412	[SpikeTest] Probe#238 source=DELAYED attempt=1 root=HWND(0x22118c) combos=0 strong=false	
+00019427	160.21411133	52412	[SpikeTest] Probe#239 source=DELAYED attempt=2 root=HWND(0x22118c) combos=0 strong=false	
+00019428	160.22312927	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x22118c) hwnd=HWND(0x22118c) obj=-4 child=24 event_thread=39068	
+00019429	160.22317505	52412	[SpikeTest] Probe#240 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x22118c) combos=0 strong=false	
+00019430	160.22319031	52412	[SpikeTest] Scheduling retries root=HWND(0x22118c) delays_ms=[80, 220, 500]	
+00019431	160.30387878	52412	[SpikeTest] Probe#241 source=DELAYED attempt=1 root=HWND(0x22118c) combos=0 strong=false	
+00019442	160.39913940	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x22118c) hwnd=HWND(0x22118c) obj=-4 child=18 event_thread=39068	
+00019443	160.42073059	52412	[SpikeTest] Probe#242 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x22118c) combos=0 strong=false	
+00019444	160.42906189	52412	[SpikeTest] Scheduling retries root=HWND(0x22118c) delays_ms=[80, 220, 500]	
+00019445	160.44387817	52412	[SpikeTest] Probe#243 source=DELAYED attempt=2 root=HWND(0x22118c) combos=0 strong=false	
+00019446	160.49418640	52412	[SpikeTest] Probe#244 source=DELAYED attempt=3 root=HWND(0x22118c) combos=0 strong=false	
+00019447	160.50144958	52412	[SpikeTest] Probe#245 source=DELAYED attempt=1 root=HWND(0x22118c) combos=0 strong=false	
+00019448	160.64115906	52412	[SpikeTest] Probe#246 source=DELAYED attempt=2 root=HWND(0x22118c) combos=0 strong=false	
+00019449	160.72392273	52412	[SpikeTest] Probe#247 source=DELAYED attempt=3 root=HWND(0x22118c) combos=0 strong=false	
+00019450	160.92181396	52412	[SpikeTest] Probe#248 source=DELAYED attempt=3 root=HWND(0x22118c) combos=0 strong=false	
+00019493	164.41815186	52412	[SpikeTest] Trigger event=EVENT_OBJECT_CREATE root=HWND(0x23118c) hwnd=HWND(0x23118c) obj=0 child=0 event_thread=39068	
+00019494	164.41824341	52412	[SpikeTest] Probe#249 source=EVENT_OBJECT_CREATE attempt=0 root=HWND(0x23118c) combos=0 strong=false	
+00019495	164.41828918	52412	[SpikeTest] Scheduling retries root=HWND(0x23118c) delays_ms=[80, 220, 500]	
+00019496	164.49905396	52412	[SpikeTest] Probe#250 source=DELAYED attempt=1 root=HWND(0x23118c) combos=0 strong=false	
+00019497	164.63906860	52412	[SpikeTest] Probe#251 source=DELAYED attempt=2 root=HWND(0x23118c) combos=0 strong=false	
+00019498	164.91894531	52412	[SpikeTest] Probe#252 source=DELAYED attempt=3 root=HWND(0x23118c) combos=0 strong=false	
+00019519	167.05960083	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0x23118c) hwnd=HWND(0x41718fa) obj=-4 child=0 event_thread=39068	
+00019520	167.05984497	52412	[SpikeTest] Probe#253 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0x23118c) combos=0 strong=false	
+00019521	167.06007385	52412	[SpikeTest] Scheduling retries root=HWND(0x23118c) delays_ms=[80, 220, 500]	
+00019522	167.14088440	52412	[SpikeTest] Probe#254 source=DELAYED attempt=1 root=HWND(0x23118c) combos=0 strong=false	
+00019523	167.19181824	52412	[SpikeTest] Trigger event=EVENT_OBJECT_FOCUS root=HWND(0xcf1e82) hwnd=HWND(0xcf1e82) obj=-4 child=0 event_thread=39068	
+00019524	167.19206238	52412	[SpikeTest] Probe#255 source=EVENT_OBJECT_FOCUS attempt=0 root=HWND(0xcf1e82) combos=0 strong=false	
+00019525	167.19229126	52412	[SpikeTest] Scheduling retries root=HWND(0xcf1e82) delays_ms=[80, 220, 500]	
+00019526	167.28604126	52412	[SpikeTest] Probe#256 source=DELAYED attempt=1 root=HWND(0xcf1e82) combos=0 strong=false	
+00019527	167.28985596	52412	[SpikeTest] Probe skipped source=DELAYED attempt=2 root=HWND(0x23118c) (invalid window)	
+00019538	167.35955811	52412	[SpikeTest] WM_QUIT posted to hook thread	
+00019539	167.36041260	52412	[SpikeTest] hook thread stopped and hooks uninstalled	

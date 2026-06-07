@@ -13,7 +13,7 @@ cargo_build_debug = ["cargo build"]
 cargo_build_release = ["cargo build --release"]
 
 [artifacts.plugin]
-destination = "Plugin/aviutl2_font_select_helper.aux2"
+destination = "Script/aviutl2_font_select_helper.mod2"
 placement_method = "copy"
 
 [artifacts.plugin.profiles.debug]

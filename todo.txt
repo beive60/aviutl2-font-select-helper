@@ -1,0 +1,17 @@
+2026/06/07 17:36
+
+実装状況: 検知層は正常ですが、同定レイヤーはこのログ（20260607.log）では未成立です。
+20260607.log では Trigger=71、Probe=256 まで動いている一方で、combos>0 / Candidate / strong=true が 0件 でした。
+
+主な根拠:
+
+- 起動・終了は健全（SetWinEventHook installed 3件、hook thread started、WM_QUIT→hook thread stopped）。
+- イベント駆動＋遅延再試行は動作（Scheduling retries 71件、attempt=1/2/3 が継続発火）。
+
+ただし全Probeが combos=0 strong=false（Probe#1〜Probe#256）。failed/panic=0。invalid window は 25件で、遅延Probe時に対象が閉じた挙動として自然。
+
+原因調査の結論（現時点）:
+
+コード上、候補化条件が class == "ComboBox" かつ CB_GETCOUNT > 0 に強く依存しており（src/lib.rs:453, 458, 567-573）、ここで全落ちしている可能性が高いです。つまり「列挙タイミング」よりも「候補条件が実UIに合っていない」可能性が高いです（カスタムクラス、または初期時点で CB_GETCOUNT=0）。
+
+判断: まだ本格実装へは進めず、次のSpikeは「候補条件の観測強化」を先に実施すべきです（クラス名ヒストグラム出力、count==0 Combo もログ化、再試行窓の延長）。
