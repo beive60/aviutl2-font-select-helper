@@ -1,0 +1,18 @@
+[package]
+name = "aviutl2-font-select-helper"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[target.'cfg(windows)'.dependencies]
+aviutl2 = { git = "https://github.com/sevenc-nanashi/aviutl2-rs", package = "aviutl2" }
+encoding_rs = "0.8"
+windows = { version = "0.58", features = [
+  "Win32_Foundation",
+  "Win32_UI_Accessibility",
+  "Win32_System_Diagnostics_Debug",
+  "Win32_System_Threading",
+  "Win32_UI_WindowsAndMessaging",
+] }
